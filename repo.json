@@ -1,4 +1,22 @@
-[
+[{
+        "Author": "marimelon",
+        "Name": "RememberAskingPrice",
+        "Punchline": "",
+        "Description": "Remember the last asking price and set it as the initial value.",
+        "InternalName": "RememberAskingPrice",
+        "AssemblyVersion": "0.2.0.1",
+        "RepoUrl": "https://github.com/marimelon/RememberAskingPrice",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 1,
+        "DownloadLinkInstall": "https://marimelon-plugins.web.app/plugins/RememberAskingPrice/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://marimelon-plugins.web.app/plugins/RememberAskingPrice/latest.zip",
+        "DownloadLinkUpdate": "https://marimelon-plugins.web.app/plugins/RememberAskingPrice/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1661454279"
+    },
     {
     "Author": "goat",
     "Name": "Character Data Sync",
